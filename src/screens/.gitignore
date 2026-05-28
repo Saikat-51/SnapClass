@@ -1,0 +1,14 @@
+.env
+.vscode
+
+
+*.pyc
+.DS_Store
+__pycahe__/
+
+venv/
+
+.streamlit/
+
+
+dist/
